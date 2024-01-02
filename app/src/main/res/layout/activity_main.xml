@@ -7,6 +7,9 @@
     android:orientation="vertical"
     android:background="@drawable/background_normal"
     >
+
+
+    <!--test 선우 -->
     <!--fragment 내용을 감싸는 Scroll-->
     <ScrollView
         android:id="@+id/content_scroll"
