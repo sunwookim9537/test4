@@ -7,11 +7,6 @@
     android:orientation="vertical"
     android:background="@drawable/background_normal"
     >
-    <!--조창욱과 함꼐하는 깃허브 사용법 테스트-->
-    
-
-
-
     <!--fragment 내용을 감싸는 Scroll-->
     <ScrollView
         android:id="@+id/content_scroll"
